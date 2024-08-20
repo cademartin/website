@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+header {
+  background-color: lightpink;
+  padding: 20px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+main {
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: lightpink;
+}
